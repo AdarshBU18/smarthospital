@@ -2,7 +2,7 @@ a = true;
 function chatbot(){
     if(a){
         document.getElementById("myframe").hidden = false;
-        document.getElementById("myframe").src = "https://healthcare-bot-y7blon3g7jpju.azurewebsites.net";
+        document.getElementById("myframe").src = "https://healthcare-bot-ybjzmqijo2bdy.azurewebsites.net";
         a = false;
         b = document.getElementById("chatBotbtn").textContent = "close";
 
